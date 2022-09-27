@@ -1,0 +1,5 @@
+vhdl isim_temp "xor_2b.vhd"
+vhdl isim_temp "reg_dff.vhd"
+vhdl isim_temp "and_2.vhd"
+vhdl isim_temp "full_163bitmul.vhd"
+vhdl isim_temp "full_163bitmul_tb.vhd"

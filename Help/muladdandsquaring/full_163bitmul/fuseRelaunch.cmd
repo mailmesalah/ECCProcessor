@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -lib "secureip" -o "F:/VHDL projeect/full_163bitmul/full_163bitmul_tb_isim_beh.exe" -prj "F:/VHDL projeect/full_163bitmul/full_163bitmul_tb_beh.prj" "work.full_163bitmul_tb" 
